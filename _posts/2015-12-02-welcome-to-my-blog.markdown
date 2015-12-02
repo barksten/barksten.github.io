@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to my new blog"
 date:   2015-12-02 17:25:05
-categories: welcome
+categories: blog
 ---
 #Quick intro
 The first series of posts here will be about my first steps in the world of

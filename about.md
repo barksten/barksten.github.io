@@ -4,8 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Anders Östlin and I live in Gävle, Sweden.
+I work as a software developer at [Lantmäteriet] but this is my private space and you will only find my personal projects and opinions.
+I will try to collect some of my hoppy projects here so you will most likely find something about my main hobbies:
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+* Music making
+* Cocoa Programming (AU-units)
+* Mountainbiking
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I have a billion of other interests but I will not spend time writing them all down.
+
+My [first post] will be about my brand new hobby: Modular synths
+
+
+If you want to get in touch with me you have some links in the footer.
+
+[Lantmäteriet]: http://www.lantmateriet.se
+[first post]: /blog/2015/12/02/welcome-to-my-blog.html
